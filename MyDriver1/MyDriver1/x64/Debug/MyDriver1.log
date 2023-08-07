@@ -1,0 +1,4 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\MyDriver1.inf
+  Stamping [Version] section with DriverVer=08/05/2023,9.3.32.262
+C:\Users\asdon\source\repos\MyDriver1\MyDriver1\MyDriver1.inf : error 1297: Device driver does not install on any devices, use primitive driver if this is intended.
